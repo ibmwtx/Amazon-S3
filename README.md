@@ -101,7 +101,7 @@ c) Edit adapters.xml and add the following line
 
 M4Adapter name="Amazon Simple Storage Service" alias="AZS3" id="172" type="app" class="com/ibm/itx/amazon/s3"
 
-d) Download Amazon SNS SDK Java artifacts from Tools for Amazon Web Services.
+d) Download Amazon SNS SDK Java artifacts from [Tools for Amazon Web Services](https://aws.amazon.com/tools/).
 
 From the zip file, Copy
 
